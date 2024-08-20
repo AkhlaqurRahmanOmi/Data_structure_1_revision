@@ -34,7 +34,7 @@ This repository serves as a comprehensive revision tool for students and profess
 
 ### Tech Stack:
 
-- **Language:** C++
-- **IDE:** Any C++ compatible IDE (e.g., Visual Studio Code, CLion)
+- **Language:** Java
+- **IDE:** Any Java-compatible IDE (e.g., IntelliJ IDEA, Eclipse)
 
 This repository is a work in progress and will be updated with additional data structures and algorithms over time.
